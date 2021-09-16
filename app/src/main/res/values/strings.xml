@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">githubShowcase</string>
+    <string name="toolbarTitle">Github repositories showcase</string>
+    <string name="searchMenuTitle">Search</string>
+    <string name="lastUpdate">Last update: </string>
+    <string name="createdAt">Created at: </string>
+</resources>

@@ -1,0 +1,126 @@
+[
+  {
+    "id": 342293321,
+    "name": "8051_ASM_code_electronicLock",
+    "owner": {
+      "login": "lucashsg77",
+      "avatar_url": "https://avatars.githubusercontent.com/u/57928235?v=4"
+    },
+    "html_url": "https://github.com/lucashsg77/8051_ASM_code_electronicLock",
+    "description": "This is a simple 8051F388 ASM code for a electronic lock using a 7 segments display and two buttons as the user interface",
+    "created_at": "2021-02-25T15:40:32Z",
+    "updated_at": "2021-02-25T18:57:10Z",
+    "stargazers_count": 0,
+    "language": "Assembly"
+  },
+  {
+    "id": 401848824,
+    "name": "BusinessCard",
+    "owner": {
+      "login": "lucashsg77",
+      "avatar_url": "https://avatars.githubusercontent.com/u/57928235?v=4"
+    },
+    "html_url": "https://github.com/lucashsg77/BusinessCard",
+    "description": "Simple kotlin app to create and share business cards",
+    "created_at": "2021-08-31T21:33:06Z",
+    "updated_at": "2021-08-31T21:34:32Z",
+    "stargazers_count": 0,
+    "language": "Kotlin"
+  },
+  {
+    "id": 383573444,
+    "name": "C-AppliedDFS-implementation",
+    "owner": {
+      "login": "lucashsg77",
+      "avatar_url": "https://avatars.githubusercontent.com/u/57928235?v=4"
+    },
+    "html_url": "https://github.com/lucashsg77/C-AppliedDFS-implementation",
+    "description": "This is a program that counts \"towns\" and sorts it by it's size",
+    "stargazers_count": 0,
+    "language": "C"
+  },
+  {
+    "id": 342723821,
+    "name": "CIFAR-10_keras_CNN_model",
+    "owner": {
+      "login": "lucashsg77",
+      "avatar_url": "https://avatars.githubusercontent.com/u/57928235?v=4"
+    },
+    "html_url": "https://github.com/lucashsg77/CIFAR-10_keras_CNN_model",
+    "description": "It's a simple python project with a keras CNN model and a GUI interface for selecting the keras model and testing it with an image",
+    "created_at": "2021-02-26T23:10:42Z",
+    "updated_at": "2021-03-01T03:57:24Z",
+    "stargazers_count": 0,
+    "language": "Python"
+  },
+  {
+    "id": 354040911,
+    "name": "Eye-commands",
+    "owner": {
+      "login": "lucashsg77",
+      "avatar_url": "https://avatars.githubusercontent.com/u/57928235?v=4"
+    },
+    "html_url": "https://github.com/lucashsg77/Eye-commands",
+    "description": "The Eye-Commander is designed as an open-source solution to eye-tracking that will work without the need for a fancy camera or expensive software.",
+    "created_at": "2021-04-02T14:20:36Z",
+    "updated_at": "2021-06-01T00:50:06Z",
+    "stargazers_count": 0,
+    "language": "Python"
+  },
+  {
+    "id": 379651617,
+    "name": "EyeCommander",
+    "owner": {
+      "login": "lucashsg77",
+      "avatar_url": "https://avatars.githubusercontent.com/u/57928235?v=4"
+    },
+    "html_url": "https://github.com/lucashsg77/EyeCommander",
+    "description": "An open source computer vision interface that tracks eye movements for individuals with severely-limited mobility.",
+    "created_at": "2021-06-23T15:36:29Z",
+    "updated_at": "2021-06-23T15:36:30Z",
+    "stargazers_count": 0,
+    "language": null
+  },
+  {
+    "id": 383561151,
+    "name": "Simple-C-TicTacToeGame",
+    "owner": {
+      "login": "lucashsg77",
+      "avatar_url": "https://avatars.githubusercontent.com/u/57928235?v=4"
+    },
+    "html_url": "https://github.com/lucashsg77/Simple-C-TicTacToeGame",
+    "description": "TicTacToe game, Player vs Pc",
+    "created_at": "2021-07-06T18:16:18Z",
+    "updated_at": "2021-07-06T18:16:26Z",
+    "stargazers_count": 0,
+    "language": "C"
+  },
+  {
+    "id": 341654628,
+    "name": "Simple_BMP_Filter_Editor",
+    "owner": {
+      "login": "lucashsg77",
+      "avatar_url": "https://avatars.githubusercontent.com/u/57928235?v=4"
+    },
+    "html_url": "https://github.com/lucashsg77/Simple_BMP_Filter_Editor",
+    "description": "A 24 bit BMP parser coded in c++ with a even simpler UI coded in QT that can apply some filters and output the edited image.",
+    "created_at": "2021-02-23T18:43:29Z",
+    "updated_at": "2021-02-24T22:28:04Z",
+    "stargazers_count": 0,
+    "language": "C++"
+  },
+  {
+    "id": 400341844,
+    "name": "ToDoApp",
+    "owner": {
+      "login": "lucashsg77",
+      "avatar_url": "https://avatars.githubusercontent.com/u/57928235?v=4"
+    },
+    "html_url": "https://github.com/lucashsg77/ToDoApp",
+    "description": "Simple To-do app written in kotlin",
+    "created_at": "2021-08-27T00:27:43Z",
+    "updated_at": "2021-08-27T00:36:15Z",
+    "stargazers_count": 0,
+    "language": "Kotlin"
+  }
+]
